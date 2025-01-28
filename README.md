@@ -1,1 +1,1 @@
-# paraicl
+# Parallel In-Context Learning
